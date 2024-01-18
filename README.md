@@ -1,2 +1,2 @@
 # HeroWhen
-Helper addon for WoW to indicate when to use Hero in M+ dungeons
+Helper addon for World of Warcraft to indicate when to use Hero in M+ dungeons
