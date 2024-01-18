@@ -1,0 +1,8 @@
+## Interface: 100200
+
+## Title: HeroWhen
+## Version: 1.0.0
+## Notes: Hero helper to indicate when to hero in mythic plus dungeons.
+## Author: Ironblue
+
+Core.lua
